@@ -62,7 +62,10 @@ GEM
     unicode-display_width (1.8.0)
 
 PLATFORMS
+  ruby
+  x86_64-darwin-17
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   dedovic-2021
